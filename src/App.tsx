@@ -22,9 +22,9 @@ const App = () => (
       <div className={`${styles.boxWidth}`}> 
         <Stats/>
         <Business/>
-        <Billing />
-        <CardDeal />
-        <Testimonials />
+        <Billing/>
+        <CardDeal/>
+        <Testimonials/>
         <Clients />
         <CTA />
         <Footer />
