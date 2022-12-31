@@ -48,7 +48,7 @@ const Hero = () =>
         </div>
 
         <div className={`ss:hidden ${styles.flexCenter}`}>
-            <GetStarted />
+            <GetStarted/>
         </div>
     </section>
 )
