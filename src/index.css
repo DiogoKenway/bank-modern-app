@@ -138,17 +138,12 @@
     filter: blur(123px);
 }
 
+.white__gradient {
+    background: rgba(255, 255, 255, .7);
+    filter: blur(750px);
+}
+
 .pink__gradient {
     background: linear-gradient(90deg, #F4C4F3 0%, #FC67FA 100%);
-    filter:blur(900px);
-}
-
-.pink__gradient {
-    background: rgba(255, 255, 255, .6);
-    filter:blur(750px);
-}
-
-.white__gradient {
-    background: linear-gradient(255, 255, 255, .6);
-    filter: blur(750px);
+    filter: blur(900px);
 }
