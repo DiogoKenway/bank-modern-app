@@ -11,7 +11,7 @@ const Stats = () => {
                     </h4>
                     <p className="font-poppins font-normal xs:text-[20px] text-[15px]
                      text-gradient leading-[26px] uppercase ml-3">
-                        {stat.title}
+                        {stat.title} 
                     </p>
                 </div>
             ))}
