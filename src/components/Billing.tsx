@@ -1,6 +1,8 @@
 const Billing = () => {
-    return(
-        <>Billing</>
+    return (
+        <section>
+
+        </section>
     )
 }
 
