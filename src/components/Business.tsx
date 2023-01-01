@@ -1,6 +1,8 @@
 const Business = () => {
     return(
-        <>Business</>
+        <section>
+            
+        </section>
     )
 }
 
