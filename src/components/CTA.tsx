@@ -1,6 +1,8 @@
+import styles from "../styles";
+
 const CTA = () => {
     return(
-        <>CTA</>
+        <section>CTA</section>
     )
 }
 
