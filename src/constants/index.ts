@@ -191,11 +191,11 @@ const clients = [
         logo: binance,
     },
     {
-        id: "client-1",
+        id: "client-3",
         logo: coinbase,
     },
     {
-        id: "client-1",
+        id: "client-4",
         logo: dropbox,
     },
 ];
