@@ -16,6 +16,22 @@
     --card-shadow: 0px 20px 100px -10px rgba(66, 71, 91, .1);
 }
 
+body::-webkit-scrollbar-thumb {
+    background-color: #33BBCF;
+    border-radius: 6px;  
+} 
+
+body::-webkit-scrollbar-track {
+    background-color: #00040F;
+    border-radius: 4px;
+}
+
+body::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+    display: block;
+}
+
 
 * {
     scroll-behavior: smooth;
